@@ -16,6 +16,7 @@ Instructions to Install, Configure, and Run:
 6. Check for current JAVA version. 
 7. With apache tomcat running, hit RUN AS > Run on server on the left of the screen. 
 8. This will take the user to login/registration page. 
+9. Registering allows the user to login, which then allows the user to submit a quote request for their tree.
 9. You can individually run treeRequest on server to open it separately. 
 10. Initialize database resets data, even admin roles (David Smith). 
 
