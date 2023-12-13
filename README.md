@@ -20,4 +20,7 @@ Instructions to Install, Configure, and Run:
 9. You can individually run treeRequest on server to open it separately. 
 10. Initialize database resets data, even admin roles (David Smith). 
 
+
+
+ADDED BOTH ZIP AND NON ZIP TO REPOSITORY
  
